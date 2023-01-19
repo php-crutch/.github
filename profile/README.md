@@ -1,3 +1,3 @@
-# crutch
+# php-crutch
 
-PHP project tools
+PHP libraries
